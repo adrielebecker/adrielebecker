@@ -1,10 +1,7 @@
 <a href="https://git.io/typing-svg"><img style="margin-left: 90%" src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=3000&pause=1000&color=7500F7&center=true&width=435&lines=Ol%C3%A1!+Bem+vindo(a)+ao+meu+perfil!;Me+chamo+Adriele+Becker!;Curso+Informática+para+Internet+no+IFC;Tenho+16+anos...;E+sou+apaixonada+por+TI!" alt="Typing SVG"/></a>
 
-<div>
-<a href="https://github.com/adrielebecker">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielebecker&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielebecker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![octocat-1673682171466](https://user-images.githubusercontent.com/109832518/212483932-b067e2a4-11fd-4770-a741-ceb835d927ae.png)
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=1&pause=1000&color=FFF&center=false&width=435&size=16&lines=Principais+Habilidades:" alt="Typing SVG" /></a><br>
 
