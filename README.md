@@ -28,9 +28,9 @@
 <a href="https://wa.me/47997543011">
   ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
 </a>
-<a href="https://www.instagram.com/adriele_becker14/">
+<a href="https://www.instagram.com/adriele_becker14/" target="about_blank">
   ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white)
-</a>  <a href="https://www.linkedin.com/in/adrielebecker/">
+</a>  <a href="https://www.linkedin.com/in/adrielebecker/" target="about_blank">
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)
 </a>
 
