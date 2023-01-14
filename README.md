@@ -1,4 +1,5 @@
 <a href="https://git.io/typing-svg"><img style="margin-left: 90%" src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=3000&pause=1000&color=7500F7&center=true&width=435&lines=Ol%C3%A1!+Bem+vindo(a)+ao+meu+perfil!;Me+chamo+Adriele+Becker!;Curso+Informática+para+Internet+no+IFC;Tenho+16+anos...;E+sou+apaixonada+por+TI!" alt="Typing SVG"/></a>
+:------:
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=1&pause=1000&color=FFF&center=false&width=435&size=16&lines=Principais+Habilidades:" alt="Typing SVG" /></a><br>
 
