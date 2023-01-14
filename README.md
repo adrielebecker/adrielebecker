@@ -28,10 +28,12 @@
 <a href="https://wa.me/47997543011">
   ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
 </a>
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)
-
+<a href="https://www.instagram.com/adriele_becker14/">
+  ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white)
+</a>  
+<a href="https://www.linkedin.com/in/adrielebecker/">
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)
+</a>
 
 
 
