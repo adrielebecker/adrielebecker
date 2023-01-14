@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=3000&pause=1000&color=7500F7&center=true&width=435&lines=Ol%C3%A1!+Bem+vindo(a)+ao+meu+perfil!;Me+chamo+Adriele+Becker!;Curso+Informática+para+Internet+no+IFC;Tenho+16+anos...;E+sou+apaixonada+por+TI!" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img style="margin-left: 90%" src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=3000&pause=1000&color=7500F7&center=true&width=435&lines=Ol%C3%A1!+Bem+vindo(a)+ao+meu+perfil!;Me+chamo+Adriele+Becker!;Curso+Informática+para+Internet+no+IFC;Tenho+16+anos...;E+sou+apaixonada+por+TI!" alt="Typing SVG"/></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=1&pause=1000&color=FFF&center=false&width=435&size=16&lines=Principais+Habilidades:" alt="Typing SVG" /></a>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&logoHeight=100)
@@ -25,9 +25,6 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=1&pause=1000&color=FFF&center=false&width=435&size=16&lines=Redes Sociais:" alt="Typing SVG" /></a>
-<a href="https://wa.me/47997543011">
-  ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)
-</a>
 <a href="https://www.instagram.com/adriele_becker14/">
   ![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?logo=Instagram&logoColor=white)
 </a>  <a href="https://www.linkedin.com/in/adrielebecker/">
