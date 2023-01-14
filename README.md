@@ -7,11 +7,9 @@
 ---
 <br>
 
-
-> Uma linguagem não faz seu código ser bom, programadores bons fazem seu código ser bom.
->
-> — Samuel Custódio
-
+  > [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Gorditas&color=FFF&size=15&center=false&vCenter=true&width=1000&repeat=true&lines=Uma+linguagem+não+faz+seu+código+ser+bom,+programadores+bons+fazem+seu+código+ser+bom!)](https://git.io/typing-svg)
+  > [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Gorditas&color=FFF&size=15&center=false&vCenter=true&width=1000&repeat=true&lines=—+Samuel+Custódio)](https://git.io/typing-svg)
+  
 <br>
 
 --- 
