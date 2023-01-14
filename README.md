@@ -13,10 +13,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=1&pause=1000&color=FFF&center=false&width=435&size=16&lines=Redes Sociais:" alt="Typing SVG" /></a><br>
 
-<a href="https://www.instagram.com/adriele_becker14/">
-</a>  <a href="https://www.linkedin.com/in/adrielebecker/">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width=70/>
-</a>
+<a href="https://www.instagram.com/adriele_becker14/" target="_blank">
+ <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</a> <a href="https://www.linkedin.com/in/adrielebecker/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto: adrielebecker14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   
 
