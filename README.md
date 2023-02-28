@@ -15,7 +15,7 @@
 
 --- 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=1&pause=1000&color=FFF&center=false&width=435&size=16&lines=Principais+Habilidades:" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gorditas&weight=100&duration=1&pause=1000&color=7500F7&center=false&width=435&size=16&lines=Principais+Habilidades:" alt="Typing SVG" /></a><br>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width=70/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width=70/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=60/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width=70/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width=60 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=70/>
 
